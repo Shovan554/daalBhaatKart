@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@evershop/evershop": "^1.0.0-rc.8"
+  },
+  "scripts": {
+    "setup": "evershop install",
+    "build": "evershop build",
+    "start": "evershop start",
+    "dev": "evershop dev",
+    "start:debug": "evershop start --debug"
+
+    
+
+}
+}
