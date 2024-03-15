@@ -6,11 +6,11 @@ function MainBanner() {
     <div className="main-banner-home flex items-center">
       <div className="page-width grid grid-cols-1 md:grid-cols-2 gap-2">
         <div className="text-center md:text-left px-2 ">
-          <h2 className="h1 ">DaalBhaatKart</h2>
-          <p>Elevate your palette</p>
+          <h2 className="h1 ">Lotus Boutique</h2>
+          <p>Comfort with Style</p>
           <p></p>
           <a className="button button-primary" href="#">
-            SHOP NOW
+            SHOP NOW 
           </a>
         </div>
         <div />

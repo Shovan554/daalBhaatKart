@@ -4,7 +4,7 @@ function Logo() {
   return (
     <div>
       <a href="/">
-        <img src="/daalBhaatKart.png" alt="DaalBhaatKart"  style={{ maxWidth: '100px', maxHeight: '100px' }}/>
+        <img src="/logo.png" alt="DaalBhaatKart"  style={{ maxWidth: '100px', maxHeight: '100px' }}/>
       </a>
     </div>
   );
